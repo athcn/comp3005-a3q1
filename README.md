@@ -6,7 +6,8 @@
 This is my submission for Question 1 in Assignment 3 for **COMP 3005**
 
 #### Demonstration Video
-https://youtu.be/SEF9eTNcQuk
+[Youtube Link](https://youtu.be/SEF9eTNcQuk)
+
 
 ## Setup
 #### Downloading Required Libraries / Files
