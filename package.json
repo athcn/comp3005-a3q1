@@ -1,0 +1,16 @@
+{
+  "type": "commonjs",
+  "dependencies": {
+    "postgres": "^3.4.3",
+    "prompt-sync": "^4.2.0"
+  },
+  "name": "assignment3-q1",
+  "description": "Created the table on pg4admin inside a **students** database with the following query,\r ```sql\r CREATE TABLE IF NOT EXISTS students (\r \tstudent_id\t\t\tSERIAL\tPRIMARY KEY,\r \tfirst_name\t\t\tTEXT\tNOT NULL,\r \tlast_name\t\t\tTEXT\tNOT NULL,\r \temail\t\t\t\tTEXT\tUNIQUE NOT NULL,\r \tenrollment_date\t\tDATE\r );\r ```",
+  "version": "1.0.0",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Young-hoon Kim",
+  "license": "ISC"
+}
